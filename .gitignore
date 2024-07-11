@@ -1,5 +1,5 @@
-/node_modules
-/build
-/config
-/public
+node_modules
 /src
+/public
+/config
+/build
