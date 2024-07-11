@@ -1,1 +1,0 @@
-export {LazyAbout as Input} from './Input.lazy'

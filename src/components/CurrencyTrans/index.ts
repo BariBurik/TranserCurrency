@@ -1,1 +1,0 @@
-export {LazyAbout as CurrencyTrans} from './CurrencyTrans.lazy'
